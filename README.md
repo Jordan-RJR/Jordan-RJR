@@ -16,3 +16,8 @@ Es un placer conocerte. Me llamo Jordan y soy un apasionado del desarrollo web. 
 <a href="https://www.tiktok.com/@eldevrjr?lang=es" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@eldevrjr" /></a>
 <a href = "mailto:jordanrjrdev.contact@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@eldevrjr"  /></a>
 <a href="https://www.linkedin.com/in/el-dev-rjr-9a9883301/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="eldevrjr"/></a>
+
+### Languajes y Herramientas 🛠
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+  </a>
