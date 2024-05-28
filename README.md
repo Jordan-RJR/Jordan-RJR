@@ -20,5 +20,5 @@ Es un placer conocerte. Me llamo Jordan y soy un apasionado del desarrollo web. 
 ### Languajes y Herramientas 🛠
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,ai,ps,sublime,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,ai,ps,sublime,vscode,github,bootstrap" />
   </a>
