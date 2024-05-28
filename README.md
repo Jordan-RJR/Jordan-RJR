@@ -11,4 +11,4 @@ Es un placer conocerte. Me llamo Jordan y soy un apasionado del desarrollo web. 
 
 ### Contáctate conmigo 📝
 
-<a href="[https://www.youtube.com/@unsimpledev](https://www.youtube.com/channel/UCobokO692ow4kY8oWJxuaOw)" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+<a href="www.youtube.com/@rjrdev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
