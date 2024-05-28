@@ -18,6 +18,7 @@ Es un placer conocerte. Me llamo Jordan y soy un apasionado del desarrollo web. 
 <a href="https://www.linkedin.com/in/el-dev-rjr-9a9883301/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="eldevrjr"/></a>
 
 ### Languajes y Herramientas 🛠
+
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,js,ai,ps,sublime,vscode,github" />
   </a>
