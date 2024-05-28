@@ -14,3 +14,4 @@ Es un placer conocerte. Me llamo Jordan y soy un apasionado del desarrollo web. 
 <a href="https://www.youtube.com/@rjrdev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@eldevrjr"  /></a>
 <a href="https://www.instagram.com/eldevrjr/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@eldevrjr"/></a>
 <a href="https://www.tiktok.com/@eldevrjr?lang=es" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@eldevrjr" /></a>
+<a href = "mailto:jordanrjrdev.contact@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@eldevrjr"  /></a>
