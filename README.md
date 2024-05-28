@@ -11,5 +11,5 @@ Es un placer conocerte. Me llamo Jordan y soy un apasionado del desarrollo web. 
 
 ### Contáctate conmigo 📝
 
-[<img align="left" height="30px" src="[https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)" />][website]
+[<img align="left" alt="bilgehangecici.site" height="30px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+" />]
