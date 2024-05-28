@@ -7,4 +7,7 @@ Es un placer conocerte. Me llamo Jordan y soy un apasionado del desarrollo web. 
 - 👨‍💻 Actualmente estoy practicando tecnologías de desarrollo web como HTML, CSS y JavaScript.
 - 📚 Estoy aprendiendo todo sobre tecnologías de Frontend 😅
 - 💪🏼 Objetivos futuros: Aprender más tecnologías - Nunca dejar de crear nuevas ideas.
-- ⚡  Dato curioso: Me encanta la percusión.
+- ⚡  Dato curioso: Me encanta la percusión 🥁.
+
+### Contáctate conmigo 📝
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
